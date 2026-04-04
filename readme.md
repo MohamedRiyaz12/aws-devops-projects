@@ -1,0 +1,17 @@
+AWS DevOps Projects:
+
+Projects:
+- Amazon Redshift Database & Table Management
+- Restrict EC2 Termination 
+- S3 Encryption with KMS
+- SNS-SQS Fanout Architecture
+- Lambda+SNS
+- Blue-Green Deployment
+- Image Processing Pipeline using AWS SQS
+- Root login alert system
+
+Tools Used:
+AWS IAM, EC2, S3, CloudWatch, SNS, SQS, KMS, Redshift,Lambda
+
+Author:
+Mohamed Riyaz
