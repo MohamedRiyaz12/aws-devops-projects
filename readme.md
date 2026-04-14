@@ -9,9 +9,10 @@ Projects:
 - Blue-Green Deployment
 - Image Processing Pipeline using AWS SQS
 - Root login alert system
+- CI/CD Pipeline Automation 
 
 Tools Used:
-AWS IAM, EC2, S3, CloudWatch, SNS, SQS, KMS, Redshift,Lambda
+AWS IAM, EC2, S3, CloudWatch, SNS, SQS, KMS, Redshift,Lambda, Jenkins, Github ,Docker
 
 Author:
 Mohamed Riyaz
